@@ -107,7 +107,7 @@
 качества программного обеспечения». 
 
 ### Пара №5. 15:50 - 16:35, 16:40 - 17:25
-9. Выполянем тесты от 1.1 до 3.6 (по ссылке https://drive.google.com/drive/folders/1CTFT5gpD7KbcFRuy-PGDw3UKP0uwOYYe?hl=ru). 
+9. Выполянем тесты от 1.1 до 3.7 (по ссылке https://drive.google.com/drive/folders/1CTFT5gpD7KbcFRuy-PGDw3UKP0uwOYYe?hl=ru). 
 
 10. Написание отчета по работе в дневнике практики.
 
